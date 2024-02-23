@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303252473587",
+    "project_id": "nfc-demo-c3e56",
+    "storage_bucket": "nfc-demo-c3e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303252473587:android:408be881e3a817dfe91986",
+        "android_client_info": {
+          "package_name": "com.example.nfc_data_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-B0PdgCokzu7BCz3ck6FGNdSZBdHWLWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
